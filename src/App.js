@@ -7,6 +7,7 @@ function App() {
       <div className="largeContainer">
         {/* <ShowImg bgColor="red" style={{backgroundColor:'red'}} title= "react tutorial "/>
           <ShowImg bgColor="blue" style={{backgroundColor:'blue'}} title="node.js tutorial "/> */}
+    <div><h1> headign during editing in github </h1></div>
 
         <ShowImg
           title="about alian"
